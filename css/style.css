@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+.container-fluid {
+    background-color: darkgoldenrod;
+    border: 4px double #1C6EA4;
+    border-radius: 23px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.col-sm-4{
+    background-color: bisque;
+}
+
+.col-sm-8 {
+    background-color: cadetblue;
+}
+
+img {
+    border: 4px double #1C6EA4;
+    border-radius: 23px;
+    height: 250px; 
+    width: 200px; 
+    float: left;
+}
