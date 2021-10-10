@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+.container-fluid {
+    background-color: beige;
+    border: 4px double #1C6EA4;
+    border-radius: 23px;
+}
+
+.checked {
+    color: orange;
+  }
+
+.items  {
+    border: 5px none;
+border-radius: 10px;
+}
+
+a:hover{
+    background-color: #99FF99;
+}
